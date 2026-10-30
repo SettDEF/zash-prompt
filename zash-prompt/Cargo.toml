@@ -1,0 +1,7 @@
+[package]
+name = "zash-prompt"
+version = "0.1.0"
+edition = "2021"
+description = "The shell prompt: folder, git, language, time taken, in tinct's colours"
+
+[dependencies]

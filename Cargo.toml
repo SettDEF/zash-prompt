@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = ["zash-prompt"]
+
+[profile.release]
+opt-level = 2
+strip = true
